@@ -1,12 +1,12 @@
-##Handwritten Digits Recognition using Machine Learning
-#📌 Overview
+# Handwritten Digits Recognition using Machine Learning
+## 📌 Overview
 
 This project implements a Handwritten Digit Recognition System using Machine Learning techniques.
 The goal is to automatically recognize handwritten digits (0–9) from image data. Such systems are widely used in applications like optical character recognition (OCR), bank cheque processing, postal mail sorting, and form digitization.
 
 The model is trained on digit images and learns patterns to accurately classify unseen handwritten digits.
 
-🎯 #Objectives
+## 🎯 #Objectives
 
 To understand image-based classification using machine learning
 
@@ -16,7 +16,7 @@ To train a model capable of recognizing digits (0–9)
 
 To evaluate model performance using standard metrics
 
-🧠 Technologies Used
+## 🧠 Technologies Used
 
 Python
 
@@ -30,13 +30,13 @@ Scikit-learn – machine learning algorithms
 
 Jupyter Notebook – implementation and experimentation
 
-📂 Project Structure
+## 📂 Project Structure
 handwritten-digits-recognition/
-│
+
 ├── handwritten-digits-recognition.ipynb   # Main notebook
 ├── README.md                               # Project documentation
 
-📊 Dataset
+## 📊 Dataset
 
 The project uses a handwritten digits dataset (e.g., MNIST or similar).
 
@@ -44,11 +44,11 @@ Each image represents a digit from 0 to 9.
 
 Images are preprocessed and flattened before training.
 
-⚙️ Methodology
+## ⚙️ Methodology
 
 Data Loading
 
-Load digit images and corresponding labels
+Load digitized images and corresponding labels
 
 Data Preprocessing
 
@@ -68,7 +68,7 @@ Prediction
 
 Test the model on unseen handwritten digit images
 
-📈 Results
+## 📈 Results
 
 The trained model successfully classifies handwritten digits.
 
@@ -76,26 +76,26 @@ Achieves good accuracy on test data.
 
 Demonstrates the effectiveness of machine learning for image classification tasks.
 
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 
-Clone the repository:
+### Clone the repository:
 
 git clone https://github.com/your-username/handwritten-digits-recognition.git
 
 
-Navigate to the project directory:
+### Navigate to the project directory:
 
 cd handwritten-digits-recognition
 
 
-Open the Jupyter Notebook:
+### Open the Jupyter Notebook:
 
 jupyter notebook handwritten-digits-recognition.ipynb
 
 
-Run all cells to train and test the model.
+### Run all cells to train and test the model.
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Use Deep Learning (CNNs) for higher accuracy
 
@@ -105,26 +105,12 @@ Deploy the model as a web application
 
 Improve performance with hyperparameter tuning
 
-👤 Author
+## 👤 Author
 
 Ali Sajid
-MS Artificial Intelligence
-Machine Learning Enthusiast
+MS Artificial Intelligence,
+Machine Learning/ Deep Learning student
 
-📜 License
+## 📜 License
 
 This project is for educational and learning purposes.
-
-✅ Next Step
-
-Agar chaho to:
-
-main isko aur zyada advanced (CNN / Deep Learning style) bana doon
-
-ya interview-ready explanation likh doon
-
-ya GitHub profile ke hisaab se optimize kar doon
-
-Bas bolo 👍
-
-Humanize 126 words
